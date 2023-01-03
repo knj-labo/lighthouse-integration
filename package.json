@@ -1,0 +1,19 @@
+{
+  "name": "lighthouse-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lighthouse",
+    "playwright"
+  ],
+  "author": "jp-knj",
+  "license": "ISC",
+  "dependencies": {
+    "lighthouse": "9.6.8",
+    "playwright": "1.29.1"
+  }
+}
